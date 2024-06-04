@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Kidsbits docs
+   :caption: KD3023 Kidsbits STEM Electronic Building Blocks Smart Fan Kit
 
    README.md
    docs/index.md

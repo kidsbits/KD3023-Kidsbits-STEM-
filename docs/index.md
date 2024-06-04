@@ -1,4 +1,4 @@
-# Kidsbits STEM Electronic Building Blocks Smart Fan Kit
+# Smart Fan Kit
 
 ![01](media/01.jpg)
 
