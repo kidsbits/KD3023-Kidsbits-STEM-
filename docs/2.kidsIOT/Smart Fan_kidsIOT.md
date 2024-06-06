@@ -2001,9 +2001,15 @@ This temperature detection device adopts a DS18B20 temperature sensor and an 130
 
 ![line1](media/line1.png)
 
-**Completed**
+**Step7**
 
 ![41_07](media/41_07.png)
+
+![line1](media/line1.png)
+
+**Completed**
+
+![41_08](media/41_08.png)
 
 ![line1](media/line1.png)
 
@@ -2152,9 +2158,15 @@ We design to trigger the fan to automatically work when something approaches to 
 
 ![line1](media/line1.png)
 
-**Completed**
+**Step 7**
 
 ![42_07](media/42_07.png)
+
+![line1](media/line1.png)
+
+**Completed**
+
+![42_08](media/42_08.png)
 
 ![line1](media/line1.png)
 
@@ -2296,9 +2308,15 @@ In this project, we utilize an IR receiver and an 130 motor to construct a remot
 
 ![line1](media/line1.png)
 
-**Completed**
+**Step6**
 
 ![43_06](media/43_06.png)
+
+![line1](media/line1.png)
+
+**Completed**
+
+![43_07](media/43_07.png)
 
 ![line1](media/line1.png)
 
@@ -2518,9 +2536,15 @@ In this project, we adopt a capacitive touch sensor and an 130 motor to combine 
 
 ![line1](media/line1.png)
 
-**Completed**
+**Step 7**
 
 ![44_07](media/44_07.png)
+
+![line1](media/line1.png)
+
+**Completed**
+
+![44_08](media/44_08.png)
 
 ![line1](media/line1.png)
 
@@ -2654,9 +2678,15 @@ In this experiment, we build a small fan with variable rotation speeds. The requ
 
 ![line1](media/line1.png)
 
-**Completed**
+**Step 7**
 
 ![45_07](media/45_07.png)
+
+![line1](media/line1.png)
+
+**Completed**
+
+![45_08](media/45_08.png)
 
 ![line1](media/line1.png)
 
