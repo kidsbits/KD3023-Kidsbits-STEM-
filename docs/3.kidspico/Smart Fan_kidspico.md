@@ -183,7 +183,7 @@ Enter **Disk D** and open folder **Code**, find **3.Code_kidspico** and you will
 
 ![1507](media/1507.png) ![1508](media/1508.png) ![1509](media/1509.png)
 
-Connect to kidspico and choose COM port. 
+Connect to kidspico to the computer via USB cable and choose COM port. 
 
 ![1513](media/1513.png)
 
@@ -205,7 +205,7 @@ Press "Enter" and the Shell prints **hello world**.
 
 #### Test Online Running
 
-Click to open code **Onboard_LED.py**.
+Double-click to open **Onboard_LED.py** in the Files area.
 
 ![1503](media/1503.png)
 
@@ -213,13 +213,45 @@ Click ![1407](media/1407.png) to run the code, and the yellow LED on kidspico bo
 
 ![1504](media/1504.gif)
 
+Click ![1413](media/1413.png) or press Ctrl+C to exit online running.
+
 ---
 
 #### Test Offline Running
 
-Open **Onboard_LED.py** in Files: File --> Save as... 
+**Method ①**: Offline run an already written program
 
-Click ![1404](media/1404.png) to create a new script, copy and paste Onboard_LED.py in it.
+Ensure the software is not "online". Click ![1413](media/1413.png) or press Ctrl+C to exit online running.
+
+Open file **Onboard_LED.py** and click File --> Save as...
+
+![1514](media/1514.png)
+
+Choose Raspberry Pi Pico.
+
+![1515](media/1515.png)
+
+We name it as <span style="color: rgb(10, 10, 200);">**main.py**</span> (The name must be main.py, otherwise the code will fail to execute).
+
+![1511](media/1511.png)
+
+Unplug the USB cable connecting kidspico and computer. 
+
+The main.py code will automatically execute as long as the kidspico board is powered on. You will see the yellow LED flashes per second. 
+
+![1516](media/1516.png)
+
+![line4](media/line4.png)
+
+**Method ②**: Offline run a new program.
+
+Connect the kidspico to the computer via USB cable.
+
+![1517](media/1517.png)
+
+Double-click to open **Onboard_LED.py** in the Files area.
+
+Copy and paste **Onboard_LED.py** on <untitled\> (Click ![1404](media/1404.png) to create an <untitled\> if there is not).
 
 ![1505](media/1505.png)
 
@@ -227,7 +259,7 @@ Click ![1406](media/1406.png) to save it to Raspberry Pi Pico.
 
 ![1510](media/1510.png)
 
-We name it as **main.py**.
+We name it as <span style="color: rgb(10, 10, 200);">**main.py**</span> (The name must be main.py, otherwise the code will fail to execute).
 
 ![1511](media/1511.png)
 
